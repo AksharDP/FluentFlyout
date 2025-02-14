@@ -49,6 +49,6 @@ public class UserSettings
         DisableIfFullscreen = true;
         LockKeysBoldUI = true;
         LastKnownVersion = "";
-        SeekbarEnabled = false;
+        SeekbarEnabled = true;
     }
 }
